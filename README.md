@@ -1,2 +1,2 @@
 # Somera
-一个React的UI框架
+A UI Frame for React
